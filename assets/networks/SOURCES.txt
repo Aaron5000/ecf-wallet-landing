@@ -1,0 +1,13 @@
+Official network logo sources, retrieved 2026-11-17.
+
+Ethereum: https://ethereum.org/images/assets/svgs/eth-diamond-purple.svg
+Arbitrum: https://docs.arbitrum.io/img/logo.svg
+Optimism / OP Mainnet: https://optimism.io/brand
+  Artwork: https://cdn.sanity.io/images/y6ka751a/production/0619395edc911805bcea3268156418134c1c5b32-2500x1875.svg
+  Exported the symbol from its presentation artboard; original logo geometry and colors preserved.
+Polygon: https://polygon.technology/brand-guidelines
+  Official standalone SVG paths; supplied currentColor set to approved white.
+Base: https://brand.base.org/base-brand.zip (Base_square_blue.svg)
+Robinhood Chain: https://cdn.robinhood.com/robinhood_chain/brand_assets/robinhood-chain-brand-assets-v1.zip (Robinhood_Avatar.jpg)
+
+Names identify supported networks. Marks retain their respective owners' colors and proportions.

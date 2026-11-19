@@ -1,0 +1,9 @@
+# Development and handoff files are not website assets.
+*.py
+AGENTS.md
+README.md
+ASSETS.md
+art-source/
+__pycache__/
+.env
+.env.*
